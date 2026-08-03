@@ -20,7 +20,7 @@ $$ E_d = T_0 \cdot \left[ \ln\left(\frac{T_{h,out}}{T_{h,in}}\right) + \ln\left(
 
 ## Results & Conclusions
 
-![Thermal Analysis Graphs](analisis_termico_graficas.png)
+![Thermal Analysis Graphs](thermal_analysis_graphics.png)
 
 The visualizations reveal two main operational insights:
 1. **Dynamic Response:** The cold fluid's outlet temperature continuously tracks the input fluctuations of the hot fluid.
